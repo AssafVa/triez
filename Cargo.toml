@@ -1,0 +1,13 @@
+[package]
+description = "a library implelemnting a generic trie AKA prefix tree AKA radix tree"
+name = "triez"
+version = "0.1.0"
+authors = ["Assaf <assaf.va.github@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+[lib]
+name = "triez"
+test = true
+doctest = true
+doc = true

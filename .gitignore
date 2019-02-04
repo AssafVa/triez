@@ -1,0 +1,16 @@
+# rust
+/target
+**/*.rs.bk
+
+# rust library
+Cargo.lock
+
+*.swp
+
+# Intellij
+.idea/
+*.iml
+out/
+
+# VScode
+.vscode/**
