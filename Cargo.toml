@@ -9,5 +9,5 @@ license = "MIT"
 [lib]
 name = "triez"
 test = true
-doctest = true
+doctest = false
 doc = true
