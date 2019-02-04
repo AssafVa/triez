@@ -11,3 +11,6 @@ name = "triez"
 test = true
 doctest = false
 doc = true
+
+[badges]
+travis-ci = { repository = "AssafVa/triez" }
