@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AssafVa/triez.svg?branch=master)](https://travis-ci.org/AssafVa/triez)
+
 # Trie
 
 implementation of a generic trie.
